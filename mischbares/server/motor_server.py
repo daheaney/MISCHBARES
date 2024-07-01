@@ -1,5 +1,6 @@
 """motor driver"""
 import time
+import sys
 
 import json
 from pydantic import BaseModel
